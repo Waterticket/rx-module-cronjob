@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="0.2">
+	<title xml:lang="ko">반복 작업 모듈 (Cronjob)</title>
+	<description xml:lang="ko">일정 시간마다 반복되는 작업을 관리하는 모듈입니다.</description>
+	<version>1.0.0</version>
+	<date>2024-01-26</date>
+	<category>service</category>
+	<author email_address="waterticket@potatosoft.kr" link="https://potatosoft.kr">
+		<name xml:lang="ko">Waterticket</name>
+	</author>
+</module>

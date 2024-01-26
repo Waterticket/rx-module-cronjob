@@ -1,0 +1,19 @@
+{
+    "name": "waterticket/cronjob",
+    "description": "cronjob module",
+    "type": "cronjob",
+    "require": {
+        "peppeocchi/php-cron-scheduler": "^4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Waterticket\\Cronjob\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Waterticket",
+            "email": "waterticket@potatosoft.kr"
+        }
+    ]
+}
